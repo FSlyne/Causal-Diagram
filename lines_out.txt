@@ -1,0 +1,193 @@
+digraph world {
+rankdir=LR;
+subgraph cluster_Chemical {
+"Combustion of Biomass" -> "Ash from Biomass Combustion" [ label = "++  (Robbins, 2012)"];
+"Ash from Biomass Combustion" [style=filled, color=Red];
+"GHG incl. CO2, SO2, NOX" -> "Corrosion" [ label = "-  (Howard, 2009)"];
+"Corrosion" [style=filled, color=Green];
+"Combustion of Biomass" -> "GHG incl. CO2, SO2, NOX" [ label = "+  (Gilbert, 2010)"];
+"GHG incl. CO2, SO2, NOX" [style=filled, color=Red];
+"Combustion of Fossil Fuel" -> "GHG incl. CO2, SO2, NOX" [ label = "++  (Gilbert, 2010)"];
+"GHG incl. CO2, SO2, NOX" [style=filled, color=Red];
+"Higher Growth of Biomass Crops" -> "GHG incl. CO2, SO2, NOX" [ label = "++  (Gilbert, 2011)"];
+"GHG incl. CO2, SO2, NOX" [style=filled, color=Red];
+"Levels of Na, K, Mg, Alkaline" -> "Melting Point of Ash" [ label = "-  (Robbins, 2012)"];
+"Melting Point of Ash" [style=filled, color=Grey];
+"Combustion of Biomass" -> "N2O, CH4 levels" [ label = "+  (Elowson, 1999)"];
+"N2O, CH4 levels" [style=filled, color=Red];
+"Melting Point of Ash" -> "Blockage, Corrosion" [ label = "++  (Robbins, 2012)"];
+"Blockage, Corrosion" [style=filled, color=Red];
+"Combustion of Biomass" -> "Combustion of Fossil Fuel" [ label = "-  (Robbins, 2012)"];
+"Combustion of Fossil Fuel" [style=filled, color=Red];
+label = "Chemical"
+}
+
+subgraph cluster_Economic {
+"RES-E directive" -> "22% of electricity from renewable sources" [ label = "+  (Demirbas, 2009)"];
+"22% of electricity from renewable sources" [style=filled, color=Green];
+"ROC (2002-2009)" -> "Cost efficient technologies" [ label = "+  (OXERA, 2007)"];
+"Cost efficient technologies" [style=filled, color=Green];
+"Size of Plant" -> "Economies of scale" [ label = "++  (Gilbert, 2011)"];
+"Economies of scale" [style=filled, color=Green];
+"EU-ETS" -> "Energy efficiency R&D for large fossil-fuel" [ label = "+  (Evans, 2010)"];
+"Energy efficiency R&D for large fossil-fuel" [style=filled, color=Green];
+"NFFO (1990-1998)" -> "Excessive competition to reduce risk" [ label = "+  (Wood, 2011)"];
+"Excessive competition to reduce risk" [style=filled, color=Red];
+"Reformed ROC" -> "Excessive competition to reduce risk" [ label = "+  (Wood, 2011)"];
+"Excessive competition to reduce risk" [style=filled, color=Red];
+"EU-ETS" -> "Attractiveness of nuclear" [ label = "+  (Evans, 2010)"];
+"Attractiveness of nuclear" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Excessive competition to reduce risk" [ label = "+  (Wood, 2011)"];
+"Excessive competition to reduce risk" [style=filled, color=Red];
+"NFFO (1990-1998)" -> "Excessive focus on low costs" [ label = "+  (Wood, 2011)"];
+"Excessive focus on low costs" [style=filled, color=Red];
+"Reformed ROC" -> "Excessive focus on low costs" [ label = "+  (Wood, 2011)"];
+"Excessive focus on low costs" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Excessive focus on low costs" [ label = "+  (Wood, 2011)"];
+"Excessive focus on low costs" [style=filled, color=Red];
+"EU-ETS" -> "Fuels with lower carbon intensity" [ label = "+  (Evans, 2010)"];
+"Fuels with lower carbon intensity" [style=filled, color=Green];
+"NFFO (1990-1998)" -> "Grid issues not resolved" [ label = "+  (Wood, 2011)"];
+"Grid issues not resolved" [style=filled, color=Red];
+"Levelised Cost" -> "BESP" [ label = "+  (UU,2011)"];
+"BESP" [style=filled, color=Grey];
+"Reformed ROC" -> "Grid issues not resolved" [ label = "+  (Wood, 2011)"];
+"Grid issues not resolved" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Grid issues not resolved" [ label = "+  (Wood, 2011)"];
+"Grid issues not resolved" [style=filled, color=Red];
+"EU-ETS" -> "Incremental efficiency of existing coal-fire" [ label = "+  (Evans, 2010)"];
+"Incremental efficiency of existing coal-fire" [style=filled, color=Red];
+"Reformed ROC" -> "Less developed innovative technologies" [ label = "+  (OXERA, 2007)"];
+"Less developed innovative technologies" [style=filled, color=Green];
+"ROC (2002-2009)" -> "Less developed innovative technologies" [ label = "-  (OXERA, 2007)"];
+"Less developed innovative technologies" [style=filled, color=Green];
+"Energy Ratio" -> "Levelised Cost" [ label = "-  (Streimikiene, 2010)"];
+"Levelised Cost" [style=filled, color=Grey];
+"Feedstock cost" -> "Levelised Cost" [ label = "++  (Streimikiene, 2010)"];
+"Levelised Cost" [style=filled, color=Grey];
+"GreenWood Flow" -> "Levelised Cost" [ label = "++  (Streimikiene, 2010)"];
+"Levelised Cost" [style=filled, color=Grey];
+"Gross Electricity" -> "Levelised Cost" [ label = "++  (Iakovou, 2010)"];
+"Levelised Cost" [style=filled, color=Green];
+"Power Generation" -> "Levelised Cost" [ label = "+  (Streimikiene, 2010)"];
+"Levelised Cost" [style=filled, color=Grey];
+"Economic Policy" -> "Liberalisation" [ label = "+  (Streimikiene, 2010)"];
+"Liberalisation" [style=filled, color=Grey];
+"NFFO (1990-1998)" -> "Limited mechanism lifespan" [ label = "+  (Wood, 2011)"];
+"Limited mechanism lifespan" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Limited mechanism lifespan" [ label = "+  (Wood, 2011)"];
+"Limited mechanism lifespan" [style=filled, color=Red];
+"Size of Plant" -> "Logistic supply chain" [ label = "++  (Iakovou, 2010)"];
+"Logistic supply chain" [style=filled, color=Grey];
+"NFFO (1990-1998)" -> "Mechanism uncertainty" [ label = "+  (Wood, 2011)"];
+"Mechanism uncertainty" [style=filled, color=Red];
+"Reformed ROC" -> "Mechanism uncertainty" [ label = "+  (Wood, 2011)"];
+"Mechanism uncertainty" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Mechanism uncertainty" [ label = "+  (Wood, 2011)"];
+"Mechanism uncertainty" [style=filled, color=Red];
+"Reformed ROC" -> "NETA/BETTA issues" [ label = "+  (Wood, 2011)"];
+"NETA/BETTA issues" [style=filled, color=Red];
+"ROC (2002-2009)" -> "NETA/BETTA issues" [ label = "+  (Wood, 2011)"];
+"NETA/BETTA issues" [style=filled, color=Red];
+"Combustion of Biomass" -> "O/C and H/C ratios" [ label = "+  (Robbins, 2012)"];
+"O/C and H/C ratios" [style=filled, color=Grey];
+"Levelised Cost" -> "Payback Period" [ label = "+  (UU,2011)"];
+"Payback Period" [style=filled, color=Grey];
+"NFFO (1990-1998)" -> "Planning issues not resolved" [ label = "+  (Wood, 2011)"];
+"Planning issues not resolved" [style=filled, color=Red];
+"Reformed ROC" -> "Planning issues not resolved" [ label = "+  (Wood, 2011)"];
+"Planning issues not resolved" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Planning issues not resolved" [ label = "+  (Wood, 2011)"];
+"Planning issues not resolved" [style=filled, color=Red];
+"NFFO (1990-1998)" -> "Policy uncertainty/excessive change" [ label = "+  (Wood, 2011)"];
+"Policy uncertainty/excessive change" [style=filled, color=Red];
+"Reformed ROC" -> "Policy uncertainty/excessive change" [ label = "+  (Wood, 2011)"];
+"Policy uncertainty/excessive change" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Policy uncertainty/excessive change" [ label = "+  (Wood, 2011)"];
+"Policy uncertainty/excessive change" [style=filled, color=Red];
+"Economies of scale" -> "Power Generation" [ label = "+  (Streimikiene, 2010)"];
+"Power Generation" [style=filled, color=Grey];
+"Reformed ROC" -> "Price and financial risk" [ label = "+  (Wood, 2011)"];
+"Price and financial risk" [style=filled, color=Red];
+"ROC (2002-2009)" -> "Price and financial risk" [ label = "+  (Wood, 2011)"];
+"Price and financial risk" [style=filled, color=Red];
+"EU-ETS" -> "Co-generation" [ label = "+  (Evans, 2010)"];
+"Co-generation" [style=filled, color=Grey];
+"Production costs" -> "Profitability of Feedstock" [ label = "-  (Bioenergy, 2002)"];
+"Profitability of Feedstock" [style=filled, color=Green];
+"EU-ETS" -> "Promoting CO2 emission prevention" [ label = "+  (Evans, 2010)"];
+"Promoting CO2 emission prevention" [style=filled, color=Green];
+"Levelised Cost" -> "PV Cap" [ label = "+  (UU,2011)"];
+"PV Cap" [style=filled, color=Grey];
+"NFFO (1990-1998)" -> "Subsidy bundling (e.g. Nuclear)" [ label = "+  (Wood, 2011)"];
+"Subsidy bundling (e.g. Nuclear)" [style=filled, color=Red];
+"Acidification and Eutrification" -> "Sustainability" [ label = "-  (Gilbert, 2011)"];
+"Sustainability" [style=filled, color=Green];
+"Air Quality Impacts" -> "Sustainability" [ label = "+  (Thornley, 2009)"];
+"Sustainability" [style=filled, color=Green];
+"CaCO3 in oceans" -> "Sustainability" [ label = "-  (Abbasi and Abbasi, 2010)"];
+"Sustainability" [style=filled, color=Green];
+"Energy Ratio" -> "Sustainability" [ label = "++  (Robbins, 2012)"];
+"Sustainability" [style=filled, color=Green];
+"Facility siting" -> "Sustainability" [ label = "+  (Thornley, 2009)"];
+"Sustainability" [style=filled, color=Green];
+"GHG incl. CO2, SO2, NOX" -> "Sustainability" [ label = "-  (Howard, 2009)"];
+"Sustainability" [style=filled, color=Green];
+"Greenhouse Gas Savings" -> "Sustainability" [ label = "+  (Thornley, 2009)"];
+"Sustainability" [style=filled, color=Green];
+"Levels of Na, K, Mg, Alkaline" -> "Sustainability" [ label = "-  (Robbins, 2012)"];
+"Sustainability" [style=filled, color=Green];
+"ROC (2002-2009)" -> "Volume risk" [ label = "+  (Wood, 2011)"];
+"Volume risk" [style=filled, color=Red];
+label = "Economic"
+}
+
+subgraph cluster_Environment {
+"Global Warming" -> "Sustainability" [ label = "-  (Evans, 2010)"];
+"Sustainability" [style=filled, color=Green];
+label = "Environment"
+}
+
+subgraph cluster_Techno {
+"Tradable Green Certificates" -> "Cost efficient technologies" [ label = "+  (Hellsmark, 2012)"];
+"Cost efficient technologies" [style=filled, color=Grey];
+"AC current" -> "Efficiency over long distances" [ label = "-  (Gross, 2006)"];
+"Efficiency over long distances" [style=filled, color=Green];
+"DC current" -> "Efficiency over long distances" [ label = "+  (Gross, 2006)"];
+"Efficiency over long distances" [style=filled, color=Green];
+"Size of Plant" -> "Electricity Grid" [ label = "++  (Gross, 2006)"];
+"Electricity Grid" [style=filled, color=Green];
+"Annual System-wide costs" -> "Feedstock cost" [ label = "+  (Abbasi and Abbasi, 2010)"];
+"Feedstock cost" [style=filled, color=Red];
+"Size of Plant" -> "Gross Electricity" [ label = "++  (Iakovou, 2010)"];
+"Gross Electricity" [style=filled, color=Green];
+"Geographical Separation between generation and users" -> "Importance of High capacity grids" [ label = "  (Gross, 2006)"];
+"Importance of High capacity grids" [style=filled, color=Green];
+"plant-specific tax exemptions " -> "information needs amongst policy makers " [ label = "-  (Hellsmark, 2012)"];
+"information needs amongst policy makers " [style=filled, color=Green];
+"Tradable Green Certificates" -> "Less developed innovative technologies" [ label = "-  (Hellsmark, 2012)"];
+"Less developed innovative technologies" [style=filled, color=Green];
+"Ash from Biomass Combustion" -> "Blockage, Corrosion" [ label = "++  (Casteli, 2000)"];
+"Blockage, Corrosion" [style=filled, color=Red];
+"Gasification" -> "Low Calorific Gas" [ label = "+  (Iakovou, 2010)"];
+"Low Calorific Gas" [style=filled, color=Green];
+"Unbalanced network flow" -> "Major Blackouts" [ label = "+  (Gross, 2006)"];
+"Major Blackouts" [style=filled, color=Red];
+"Flue Gas and Particulate removal" -> "Blockage, Corrosion" [ label = "-  (Evans, 2010)"];
+"Blockage, Corrosion" [style=filled, color=Red];
+"plant-specific tax exemptions " -> "market uncertainties for the first set of plants. " [ label = "-  (Hellsmark, 2012)"];
+"market uncertainties for the first set of plants. " [style=filled, color=Green];
+"Feedstock cost" -> "Profitability of Feedstock" [ label = "-  (Bridgwater, 1995)"];
+"Profitability of Feedstock" [style=filled, color=Green];
+"Liberalisation" -> "Size of Plant" [ label = "-  (Streimikiene, 2010)"];
+"Size of Plant" [style=filled, color=Grey];
+"Growth of Biomass" -> "Combustion of Biomass" [ label = "++  (Casteli, 2011)"];
+"Combustion of Biomass" [style=filled, color=Grey];
+"plant-specific tax exemptions " -> "technical risks" [ label = "-  (Hellsmark, 2012)"];
+"technical risks" [style=filled, color=Green];
+"UK Grid line failures" -> "Unbalanced network flow" [ label = "+  (Gross, 2006)"];
+"Unbalanced network flow" [style=filled, color=Red];
+label = "Techno"
+}
+
+}
