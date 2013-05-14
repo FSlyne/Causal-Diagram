@@ -1,0 +1,192 @@
+Economic  22% of electricity from renewable sources	Good	+	(Demirbas, 2009)	RES-E directive	Generation			
+Agriculture	Absorption of NePeK	Neutral	++	(Casteli, 2011)	Perennial Crops	Grow			64
+Socio	Accidents	Bad	-	(Evans, 2010)	Health and Safety Policy	Grow			
+Socio	Accidents	Bad	+	(Evans, 2010)	Labour intensity	Grow			1
+Chemical	Acidification and Eutrification	Bad	-	(Demirbas, 2009)	Inorganic Fertiliser	Grow			2
+Chemical	Acidification and Eutrification	Bad	-	(Gilbert, 2011)	Treatment of Sewage Sludge	Grow			3
+Chemical	Acidification of Ocean (lowering pH index)	Bad	+	(Gilbert, 2011)	CaCO3 in oceans	Environment			5
+Chemical	Acidification of Ocean (lowering pH index)	Bad	+	(Gilbert, 2011)	GHG incl. CO2, SO2, NOX	Environment			4
+Economic	Annual System-wide costs	Good	+	(Iakovou, 2010)	Collection or purchasing costs	Supply			
+Economic	Annual System-wide costs	Good	+	(Iakovou, 2010)	Facility costs	Grow			
+Economic	Annual System-wide costs	Good	+	(Iakovou, 2010)	Harvesting costs	Grow			
+Economic	Annual System-wide costs	Good	+	(Iakovou, 2010)	Transportation costs	Supply			
+Agriculture	Arable farm land	Good	-	(Howard, 2009)	Available Land for Biomass Crops	Grow			
+Agriculture	Arable farm land	Good	-	(Atkinson, 2009)	Growth of Biomass	Grow			6
+Chemical	Ash from Biomass Combustion	Bad	++	(Robbins, 2012)	Combustion of Biomass	Generation			7
+Economic	Attractiveness of nuclear	Bad	+	(Evans, 2010)	EU-ETS	Generation			
+Agriculture	Available Land for Biomass Crops	Neutral	-	(Sherrington, 2008)	Agricultural Lock-in	Grow			
+Agriculture	Available Land for Biomass Crops	Neutral	-	(Sherrington, 2008)	Competing Land Use	Grow			
+Agriculture	Available Land for Biomass Crops	Neutral	+	(Slade, 2009)	EU prescriptive Policy	Grow			
+Agriculture	Available Land for Biomass Crops	Good		(Howard, 2009)	Land Policy	Grow			8
+Agriculture	Available Land for Biomass Crops	Neutral	-	(Slade, 2009)	UK Gov Non-prescriptive Policy	Grow			
+Economic	BESP	Neutral	+	(UU,2011)	Levelised Cost	Generation			78
+Techno	Blockage, Corrosion	Bad	++	(Casteli, 2000)	Ash from Biomass Combustion	Generation			9
+Techno	Blockage, Corrosion	Bad	-	(Evans, 2010)	Flue Gas and Particulate removal	Generation			
+Chemical	Blockage, Corrosion	Bad	++	(Robbins, 2012)	Melting Point of Ash	Generation			10
+Chemical	C4	Neutral	++	(Robbins, 2012)	O/C and H/C ratios	Grow			11
+Economic	Capacities and allocations	Good	+	(Zhu, 2011)	Mixed Integer Linear Programming	Grow			
+Agriculture	Carbon Sequestration	Good	++	(Demirbas, 2009)	Arable farm land	Grow			12
+Agriculture	Carbon Sequestration	Good	++	(Robbins, 2012)	Growth of Biomass	Grow			13
+Agriculture	CO2 capture from atmosphere	Good	++	(Abbasi and Abbasi, 2010)	Higher Growth of Biomass Crops	Grow			15
+Economic	Co-generation	Neutral	+	(Evans, 2010)	EU-ETS	Generation			
+Chemical	Cold Tolerance	Good	++	(Robbins, 2000)	C4	Grow			25
+Economic	Collection or purchasing costs	Good	-	(Iakovou, 2010)	Design and Config logistics network	Supply			
+Techno	Combustion of Biomass	Neutral	++	(Casteli, 2011)	Growth of Biomass	Generation			26
+Chemical	Combustion of Fossil Fuel	Bad	-	(Robbins, 2012)	Combustion of Biomass	Generation			36
+Economic	Constraints for aggregate planning	Good	+	(Iakovou, 2010)	Network Building	Supply			
+Chemical	Corrosion	Good	-	(Howard, 2009)	GHG incl. CO2, SO2, NOX	Generation			70
+Economic	Cost efficient technologies	Good	+	(OXERA, 2007)	ROC (2002-2009)	Generation			
+Techno	Cost efficient technologies	Neutral	+	(Hellsmark, 2012)	Tradable Green Certificates	Generation			
+Economic	Cost of Plant Propagule	Bad	+	(Streimikiene, 2010)	Economic Policy	Grow			27
+Economic	Design and Config logistics network	Good	+	(Iakovou, 2010)	Constraints for aggregate planning	Supply			
+Economic	Design and Config logistics network	Good	+	(Iakovou, 2010)	Long Term Supply and Demand Contracts	Supply			
+Economic	Design and Config logistics network	Good	+	(Iakovou, 2010)	Network Building	Supply			
+Economic	Design and Config logistics network	Good	+	(Iakovou, 2010)	Short Term Supply and Demand Contracts	Supply			
+Techno	Disposal of Ash	Neutral	-	(Casteli, 2000)	Ash from Biomass Combustion	Waste			30
+Economic	Economic Supply of Biomass	Good	++	(Robbins, 2012)	Growth of Biomass	Grow			31
+Economic	Economies of scale	Good	++	(Gilbert, 2011)	Size of Plant	Generation			32
+Techno	Efficiency over long distances	Good	-	(Gross, 2006)	AC current	Generation			
+Techno	Efficiency over long distances	Good	+	(Gross, 2006)	DC current	Generation			
+Techno	Electricity Grid	Good	++	(Gross, 2006)	Size of Plant	Generation			33
+Socio	Employment	Good	++	(Evans, 2010)	Labour intensity	Grow			34
+Economic	Energy efficiency R&D for large fossil-fuel	Good	+	(Evans, 2010)	EU-ETS	Generation			
+Economic	Energy Ratio	Good	+	(Rowe, 2009)	High Calorific Value	Crop			35
+Economic	Energy Ratio	Good	-	(Rowe, 2009)	Inorganic Fertiliser	Grow			37
+Economic	Energy Ratio	Good	-	(Robbins, 2012)	Labour intensity	Grow			38
+Economic	Energy Ratio	Good	-	(Rowe, 2009)	O/C and H/C ratios	Grow			35
+Economic	Excessive competition to reduce risk	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Excessive competition to reduce risk	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Excessive competition to reduce risk	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Excessive focus on low costs	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Excessive focus on low costs	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Excessive focus on low costs	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Facility costs	Good	-	(Iakovou, 2010)	Design and Config logistics network	Supply			
+Economic	Facility Locations	Good	+	(Zhu, 2011)	Mixed Integer Linear Programming	Supply			
+Economic	Facility Locations	Good	+	(Reche-Lopez, 2009)	Particle Swarm Optimisation	Supply			
+Techno	Feedstock cost	Bad	+	(Abbasi and Abbasi, 2010)	Annual System-wide costs	Generation			
+Techno	Feedstock cost	Bad	-	(Abbasi and Abbasi, 2010)	Energy Density of Biomass	Crop			
+Economic	Feedstock cost	Bad	++	(Iakovou, 2010)	Logistic supply chain	Supply			39
+Economic	Feedstock Flows	Good	+	(Zhu, 2011)	Mixed Integer Linear Programming	Supply			
+Agriculture	Food Supply	Good	+	(Howard, 2009)	Arable farm land	Grow			
+Chemical	Forestry Fertiliser	Good	++	(Casteli, 2000)	Disposal of Ash	Waste			40
+Economic	Fuels with lower carbon intensity	Good	+	(Evans, 2010)	EU-ETS	Generation			
+Chemical	GHG incl. CO2, SO2, NOX	Bad	+	(Gilbert, 2010)	Combustion of Biomass	Generation			42
+Chemical	GHG incl. CO2, SO2, NOX	Bad	++	(Gilbert, 2010)	Combustion of Fossil Fuel	Generation			42
+Chemical	GHG incl. CO2, SO2, NOX	Bad	++	(Gilbert, 2011)	Higher Growth of Biomass Crops	Generation			41
+Chemical	GHG incl. CO2, SO2, NOX	Bad	++	(Gilbert, 2010)	Inorganic Fertiliser	Grow			42
+Chemical	GHG incl. CO2, SO2, NOX	Bad	++	(Rowe, 2000)	O/C and H/C ratios	Grow			22
+Chemical	GHG incl. CO2, SO2, NOX	Bad	-	(Gilbert, 2011)	Treatment of Sewage Sludge	Grow			43
+Chemical	Global Warming	Bad	++	(Evans, 2010)	GHG incl. CO2, SO2, NOX	Grow			24
+Economic	GreenWood Flow	Good	++	(UU,2011)	Logistic supply chain	Supply			81
+Economic	Grid issues not resolved	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Grid issues not resolved	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Grid issues not resolved	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Techno	Gross Electricity	Good	++	(Iakovou, 2010)	Size of Plant	Generation			82
+Chemical	Groundwater Pollution	Bad	++	(Gilbert, 2011)	Acidification and Eutrification	Grow			44
+Economic	Growth of Biomass	Good	-	(Atkinson, 2009)	Cost of Plant Propagule	Grow			29
+Economic	Harvesting and Transport shifts	Good	+	(Zhu, 2011)	Mixed Integer Linear Programming	Grow			
+Economic	Harvesting costs	Good	-	(Iakovou, 2010)	Design and Config logistics network	Grow			
+Agriculture	High Calorific Value	Good	+	(Hellsmark, 2012)	Wood Pellets	Crop			
+Chemical	Higher Conversion of Light than C3	Good	++	(Robbins, 2012)	C4	Crop			49
+Agriculture	Higher Growth of Biomass Crops	Good	++	(Robbins, 2012)	Higher Conversion of Light than C3	Crop			48
+Agriculture	Higher Growth of Biomass Crops	Good	++	(Atkinson, 2009)	Longer Growing Season	Crop			47
+Techno	Importance of High capacity grids	Good		(Gross, 2006)	Geographical Separation between generation and users	Generation			
+Economic	Incremental efficiency of existing coal-fire	Bad	+	(Evans, 2010)	EU-ETS	Generation			
+Techno	information needs amongst policy makers 	Good	-	(Hellsmark, 2012)	plant-specific tax exemptions 	Generation			
+Chemical	Inorganic Fertiliser	Good	-	(Robbins, 2012)	Nitrogen Recycle	Grow			50
+Socio	Labour intensity	Bad	++	(Evans, 2010)	Tillage	Grow			51
+Chemical	Landfill	Bad	++	(Casteli, 2000)	Disposal of Ash	Waste			40
+Economic	Less developed innovative technologies	Good	+	(OXERA, 2007)	Reformed ROC	Generation			
+Economic	Less developed innovative technologies	Good	-	(OXERA, 2007)	ROC (2002-2009)	Generation			
+Techno	Less developed innovative technologies	Good	-	(Hellsmark, 2012)	Tradable Green Certificates	Generation			
+Economic	Levelised Cost	Neutral	-	(Streimikiene, 2010)	Energy Ratio	Generation			53
+Economic	Levelised Cost	Neutral	++	(Streimikiene, 2010)	Feedstock cost	Generation			54
+Economic	Levelised Cost	Neutral	++	(Streimikiene, 2010)	GreenWood Flow	Generation			54
+Economic	Levelised Cost	Good	++	(Iakovou, 2010)	Gross Electricity	Generation			82
+Economic	Levelised Cost	Neutral	+	(Streimikiene, 2010)	Power Generation	Generation			52
+Chemical	Levels of Na, K, Mg, Alkaline	Bad	++	(Robbins, 2012)	O/C and H/C ratios	Grow			55
+Economic	Liberalisation	Neutral	+	(Streimikiene, 2010)	Economic Policy	Generation			56
+Agriculture	Limit to Carbon storage	Neutral	+	(Abbasi and Abbasi, 2010)	Carbon Sequestration	Grow			
+Economic	Limited mechanism lifespan	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Limited mechanism lifespan	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Logistic supply chain	Neutral	++	(Iakovou, 2010)	Size of Plant	Generation			57
+Agriculture	Long distance transport	Good	+	(Hellsmark, 2012)	Low Moisture Content of Feedstock	Supply			
+Economic	Long Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Learning	Supply			
+Economic	Long Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Network Building	Supply			
+Economic	Long Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Supply Chain Co-ordination	Supply			
+Agriculture	Longer Growing Season	Good	++	(Robbins, 2012)	Cold Tolerance	Crop			45
+Agriculture	Longer Growing Season	Good	++	(Atkinson, 2009)	Growth of Biomass	Crop			45
+Techno	Low Calorific Gas	Good	+	(Iakovou, 2010)	Gasification	Generation			
+Agriculture	Low Moisture Content of Feedstock	Good	+	(Hellsmark, 2012)	Wood Pellets	Crop			
+Techno	Major Blackouts	Bad	+	(Gross, 2006)	Unbalanced network flow	Generation			
+Techno	market uncertainties for the first set of plants. 	Good	-	(Hellsmark, 2012)	plant-specific tax exemptions 	Generation			
+Economic	Mechanism uncertainty	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Mechanism uncertainty	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Mechanism uncertainty	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Chemical	Melting Point of Ash	Neutral	-	(Robbins, 2012)	Levels of Na, K, Mg, Alkaline	Generation			58
+Chemical	N2O, CH4 levels	Bad	+	(Elowson, 1999)	Combustion of Biomass	Generation			
+Agriculture	Natural Habitat of Birds	Good	-	(Casteli, 2011)	Growth of Biomass	Grow			59
+Economic	NETA/BETTA issues	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	NETA/BETTA issues	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Network Building	Good	+	(Iakovou, 2010)	Capacities and allocations	Grow			
+Economic	Network Building	Good	+	(Iakovou, 2010)	Facility Locations	Supply			
+Economic	Network Building	Good	+	(Iakovou, 2010)	Feedstock Flows	Supply			
+Economic	Network Building	Good	+	(Iakovou, 2010)	Harvesting and Transport shifts	Supply			
+Economic	Network Building	Good	+	(Iakovou, 2010)	Robustness and Flexibility	Supply			
+Chemical	Nitrogen Leaching	Good	++	(Robbins, 2012)	Nitrogen Recycle	Grow			60
+Agriculture	Nitrogen Recycle	Good	++	(Robbins, 2012)	Longer Growing Season	Grow			61
+Agriculture	Nitrogen Recycle	Good	++	(Lovett, 2009)	Root Depth	Grow			62
+Agriculture	Nutient Losses	Bad	+	(Evans, 2010)	Growth of Biomass	Grow			
+Techno	Nutrient Losses	Bad	+	(Evans, 2010)	Ash from Biomass Combustion	Waste			
+Economic	O/C and H/C ratios	Neutral	+	(Robbins, 2012)	Combustion of Biomass	Generation			36
+Economic	Payback Period	Neutral	+	(UU,2011)	Levelised Cost	Generation			79
+Economic	Planning issues not resolved	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Planning issues not resolved	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Planning issues not resolved	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Policy uncertainty/excessive change	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Policy uncertainty/excessive change	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Policy uncertainty/excessive change	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Economic	Power Generation	Neutral	+	(Streimikiene, 2010)	Economies of scale	Generation			52
+Economic	Price and financial risk	Bad	+	(Wood, 2011)	Reformed ROC	Generation			
+Economic	Price and financial risk	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Techno	Profitability of Feedstock	Good	-	(Bridgwater, 1995)	Feedstock cost	Generation			
+Economic	Profitability of Feedstock	Good	-	(Bioenergy, 2002)	Production costs	Generation			
+Economic	Promoting CO2 emission prevention	Good	+	(Evans, 2010)	EU-ETS	Generation			
+Economic	PV Cap	Neutral	+	(UU,2011)	Levelised Cost	Generation			80
+Economic	R&D activities on Carbon Storage and Capture	Good	+	(Evans, 2010)	EU-ETS	Waste			
+Agriculture	Root Depth	Good	++	(Casteli, 2011)	Growth of Biomass	Grow			63
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Feed-in Tariffs	Supply			
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Government R&D programmes	Supply			
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Investment subsidies	Supply			
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Mandatory Blending	Supply			
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Quotas	Supply			
+Economic	Short Term Supply and Demand Contracts	Good	+	(Iakovou, 2010)	Tax Cuts and Exemptions	Supply			
+Techno	Size of Plant	Neutral	++	(Gilbert, 2011)	Economic Supply of Biomass	Supply			65
+Techno	Size of Plant	Neutral	-	(Streimikiene, 2010)	Liberalisation	Generation			66
+Agriculture	Soil Erosion	Bad	-	(Casteli, 2011)	Root Depth	Grow			67
+Agriculture	Soil Erosion	Bad	-	(Casteli, 2011)	Tillage	Grow			68
+Economic	Structured Demand for Feedstock	Good	+	(Alakangas, 2007)	Government Support measures (FiT)	Supply			
+Economic	Subsidy bundling (e.g. Nuclear)	Bad	+	(Wood, 2011)	NFFO (1990-1998)	Generation			
+Economic	Sustainability	Good	-	(Gilbert, 2011)	Acidification and Eutrification	Generation			44
+Economic	Sustainability	Good	+	(Thornley, 2009)	Air Quality Impacts	Generation			
+Economic	Sustainability	Good	++	(Howard, 2009) (Thornley, 2009)	Available Land for Biomass Crops	Grow			69
+Economic	Sustainability	Good	-	(Abbasi and Abbasi, 2010)	CaCO3 in oceans	Generation			71
+Economic	Sustainability	Good	++	(Casteli, 2011)	Disposal of Ash	Waste			
+Economic	Sustainability	Good	++	(Robbins, 2012)	Energy Ratio	Generation			74
+Economic	Sustainability	Good	+	(Thornley, 2009)	Facility siting	Generation			
+Economic	Sustainability	Good	-	(Howard, 2009)	GHG incl. CO2, SO2, NOX	Generation			70
+Environment	Sustainability	Good	-	(Evans, 2010)	Global Warming	Generation			24
+Economic	Sustainability	Good	+	(Thornley, 2009)	Greenhouse Gas Savings	Generation			
+Economic	Sustainability	Good	++	(Howard, 2009)	Growth of Biomass	Grow			28
+Economic	Sustainability	Good	-	(Robbins, 2012)	Levels of Na, K, Mg, Alkaline	Generation			75
+Economic	Sustainability	Good	++	(Iakovou, 2010)	Logistic supply chain	Supply			76
+Techno	technical risks	Good	-	(Hellsmark, 2012)	plant-specific tax exemptions 	Generation			
+Agriculture	Tillage	Neutral	-	(Robbins, 2012)	Growth of Biomass	Grow			77
+Agriculture	Tillage	Bad	-	(Upham,2009)	Perennial Crops	Crop			
+Agriculture	Transpiration	Bad	+	(Atkinson, 2009)	Growth of Biomass	Grow			
+Economic	Transportation costs	Good	-	(Iakovou, 2010)	Design and Config logistics network	Supply			
+Chemical	Treatment of Sewage Sludge	Good	+	(Casteli, 2011)	Absorption of NePeK	Grow			
+Techno	Unbalanced network flow	Bad	+	(Gross, 2006)	UK Grid line failures	Generation			
+Economic	Volume risk	Bad	+	(Wood, 2011)	ROC (2002-2009)	Generation			
+Agriculture	Water Demand	Bad	+	(Atkinson, 2009)	Longer Growing Season	Grow			
+Agriculture	Water Demand	Bad	+	(Atkinson, 2009)	Transpiration	Grow			
