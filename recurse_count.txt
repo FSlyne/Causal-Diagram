@@ -1,0 +1,51 @@
+"22% of electricity from renewable sources"  4(1)		1
+"Ash from Biomass Combustion"	3(1)	4(1)		2
+"Attractiveness of nuclear"	4(1)		1
+"BESP"	1(2)	2(3)	3(5)	4(1)		11
+"Blockage, Corrosion"	2(1)	3(2)	4(3)		6
+"Co-generation"	4(1)		1
+"Combustion of Biomass"	4(1)		1
+"Combustion of Fossil Fuel"	3(1)	4(1)		2
+"Corrosion"	1(1)	2(2)	3(3)	4(1)		7
+"Cost efficient technologies"	4(2)		2
+"Economies of scale"	2(1)	3(1)	4(1)		3
+"Efficiency over long distances"	4(2)		2
+"Electricity Grid"	2(1)	3(1)	4(1)		3
+"Energy efficiency R&D for large fossil-fuel"	4(1)		1
+"Excessive competition to reduce risk"	4(3)		3
+"Excessive focus on low costs"	4(3)		3
+"Feedstock cost"	4(1)		1
+"Fuels with lower carbon intensity"	4(1)		1
+"GHG incl. CO2, SO2, NOX"	2(1)	3(2)	4(3)		6
+"Grid issues not resolved"	4(3)		3
+"Gross Electricity"	2(1)	3(1)	4(1)		3
+"Importance of High capacity grids"	4(1)		1
+"Incremental efficiency of existing coal-fire"	4(1)		1
+"Less developed innovative technologies"	4(3)		3
+"Levelised Cost"	1(2)	2(2)	3(3)	4(5)		12
+"Liberalisation"	4(1)		1
+"Limited mechanism lifespan"	4(2)		2
+"Logistic supply chain"	2(1)	3(1)	4(1)		3
+"Low Calorific Gas"	4(1)		1
+"Major Blackouts"	3(1)	4(1)		2
+"Mechanism uncertainty"	4(3)		3
+"Melting Point of Ash"	4(1)		1
+"N2O, CH4 levels"	3(1)	4(1)		2
+"NETA/BETTA issues"	4(2)		2
+"O/C and H/C ratios"	3(1)	4(1)		2
+"PV Cap"	1(2)	2(3)	3(5)	4(1)		11
+"Payback Period"	1(2)	2(3)	3(5)	4(1)		11
+"Planning issues not resolved"	4(3)		3
+"Policy uncertainty/excessive change"	4(3)		3
+"Power Generation"	1(1)	2(1)	3(1)	4(1)		4
+"Price and financial risk"	4(2)		2
+"Profitability of Feedstock"	3(1)	4(2)		3
+"Promoting CO2 emission prevention"	4(1)		1
+"Size of Plant"	3(1)	4(1)		2
+"Subsidy bundling (e.g. Nuclear)"	4(1)		1
+"Sustainability"	1(1)	2(2)	3(3)	4(9)		15
+"Unbalanced network flow"	4(1)		1
+"Volume risk"	4(1)		1
+"information needs amongst policy makers "	4(1)		1
+"market uncertainties for the first set of plants. "	4(1)		1
+"technical risks"	4(1)		1
