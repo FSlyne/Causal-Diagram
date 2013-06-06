@@ -1,4 +1,4 @@
 Causal-Diagram
 ==============
 
-Libraries for defining and analysing System Dynamic and Business Dynamic relationships
+Libraries for defining and analysing System / Business Dynamic relationships
